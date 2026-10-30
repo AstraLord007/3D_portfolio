@@ -15,10 +15,9 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    rolling,
+    upateco,
+    seguros,
     carrent,
     jobit,
     tripguide,
@@ -118,8 +117,8 @@ const experiences = [
     {
         title: "Licensed insurance producer",
         company_name: "Independent / Private Practice",
-        icon: starbucks,
-        iconBg: "#383E56",
+        icon: seguros,
+        iconBg: "#915EFF",
         date: "2016 - Present",
         points: [
             "Over 10 years of experience managing client portfolios, risk assessment, and commercial negotiations.",
@@ -130,8 +129,8 @@ const experiences = [
     {
         title: "Full-Stack Web Development Student",
         company_name: "Rolling Code School",
-        icon: tesla,
-        iconBg: "#E6DEDD",
+        icon: rolling,
+        iconBg: "#00CEA8",
         date: "Jun 2022 - Feb 2023",
         points: [
             "Completed an intensive Full-Stack Web Development program focused on modern software design.",
@@ -142,8 +141,8 @@ const experiences = [
     {
         title: "University Student - Software Programming",
         company_name: "UPATecO",
-        icon: shopify,
-        iconBg: "#383E56",
+        icon: upateco,
+        iconBg: "#E6DEDD",
         date: "Mar 2025 - Present",
         points: [
             "Enrolled in the University Technical Degree in Application Development, mastering core software engineering concepts.",
@@ -154,7 +153,7 @@ const experiences = [
     {
         title: "Cloud Infrastructure & DevOps Student",
         company_name: "UPATecO & Microsoft Professional Certifications",
-        icon: meta,
+        icon: upateco,
         iconBg: "#E6DEDD",
         date: "Mar 2026 - Present",
         points: [
