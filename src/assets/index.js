@@ -8,18 +8,18 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import bootstrap from "./tech/bootstrap.png";
 import git from "./tech/git.png";
+import githubb from "./tech/githubb.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import csharp from "./tech/csharp.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png";
 
 import seguros from "./company/seguros.png";
 import rolling from "./company/rolling.png";
@@ -30,6 +30,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  python,
   logo,
   backend,
   creator,
@@ -39,18 +40,17 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
+  bootstrap,
   git,
+  githubb,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
+  csharp,
   tailwind,
   typescript,
-  threejs,
   rolling,
   upateco,
   seguros,

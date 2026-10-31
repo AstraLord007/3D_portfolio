@@ -8,20 +8,20 @@ import {
     html,
     css,
     reactjs,
-    redux,
+    bootstrap,
     tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
-    docker,
+    githubb,
+    python,
+    csharp,
     rolling,
     upateco,
     seguros,
     carrent,
     jobit,
     tripguide,
-    threejs,
 } from "../assets";
 
 export const navLinks = [
@@ -72,6 +72,14 @@ const technologies = [
         icon: javascript,
     },
     {
+        name: "Python",
+        icon: python,
+    },
+    {
+        name: "C#",
+        icon: csharp,
+    },
+    {
         name: "TypeScript",
         icon: typescript,
     },
@@ -80,12 +88,12 @@ const technologies = [
         icon: reactjs,
     },
     {
-        name: "Redux Toolkit",
-        icon: redux,
-    },
-    {
         name: "Tailwind CSS",
         icon: tailwind,
+    },
+    {
+        name: "Bootstrap",
+        icon: bootstrap,
     },
     {
         name: "Node JS",
@@ -96,20 +104,12 @@ const technologies = [
         icon: mongodb,
     },
     {
-        name: "Three JS",
-        icon: threejs,
-    },
-    {
-        name: "git",
+        name: "Git",
         icon: git,
     },
     {
-        name: "figma",
-        icon: figma,
-    },
-    {
-        name: "docker",
-        icon: docker,
+        name: "GitHub",
+        icon: githubb,
     },
 ];
 
