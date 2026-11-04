@@ -167,7 +167,7 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Mauri proved me wrong.",
+            "I've never met a web developer who truly cares about their clients' success like Mauri does.",
         name: "Lucas F. Perez",
         designation: "Tech Leader",
         company: "JBK Knowledge",
@@ -175,7 +175,7 @@ const testimonials = [
     },
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Mauri does.",
+            "After Mauri optimized our website, our traffic increased by 50%. We can't thank him enough!",
         name: "Ezequiel Torres Morcos",
         designation: "COO",
         company: "Estudio Contable",
@@ -183,7 +183,7 @@ const testimonials = [
     },
     {
         testimonial:
-            "After Mauri optimized our website, our traffic increased by 50%. We can't thank them enough!",
+            "I thought it was impossible to make a website as beautiful as our product, but Mauri proved me wrong.",
         name: "Tomás Dorado",
         designation: "CEO",
         company: "Dalaran Barber Shop",
