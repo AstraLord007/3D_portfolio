@@ -1,3 +1,7 @@
+import lucasImg from "../assets/testimonials/lucas.jpg";
+import ezequielImg from "../assets/testimonials/ezequiel.jpg";
+import tomasImg from "../assets/testimonials/tomas.jpg";
+
 import {
     mobile,
     backend,
@@ -167,33 +171,33 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Mauri does.",
+            "I've never met a web developer who truly cares about their clients' success like Mauricio does.",
         name: "Lucas F. Perez",
-        designation: "Tech Leader",
+        designation: "Team Leader",
         company: "JBK Knowledge",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+        image: lucasImg,
     },
     {
         testimonial:
-            "After Mauri optimized our website, our traffic increased by 50%. We can't thank him enough!",
+            "After Mauricio optimized our website, our traffic increased by 50%. We can't thank him enough!",
         name: "Ezequiel Torres Morcos",
-        designation: "COO",
-        company: "Estudio Contable",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        designation: "CEO",
+        company: "EME Consultores",
+        image: ezequielImg,
     },
     {
         testimonial:
             "I thought it was impossible to make a website as beautiful as our product, but Mauri proved me wrong.",
         name: "Tomás Dorado",
-        designation: "CEO",
+        designation: "Owner",
         company: "Dalaran Barber Shop",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+        image: tomasImg,
     },
 ];
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Barrio Ciudadela",
         description:
             "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
         tags: [
