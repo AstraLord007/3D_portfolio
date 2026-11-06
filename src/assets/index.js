@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import linkedin from "./linkedin.svg";
 
 import css from "./tech/css.png";
 import bootstrap from "./tech/bootstrap.png";
@@ -36,6 +37,7 @@ export {
   creator,
   mobile,
   web,
+  linkedin,
   github,
   menu,
   close,

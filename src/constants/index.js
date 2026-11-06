@@ -26,6 +26,7 @@ import {
     carrent,
     jobit,
     tripguide,
+    linkedin,
 } from "../assets";
 
 export const navLinks = [
@@ -172,10 +173,11 @@ const testimonials = [
     {
         testimonial:
             "I've never met a web developer who truly cares about their clients' success like Mauricio does.",
-        name: "Lucas F. Perez",
+        name: "Lucas Fernando Perez",
         designation: "Team Leader",
         company: "JBK Knowledge",
         image: lucasImg,
+        linkedin: "https://www.linkedin.com/in/lucas-perez-1a2120111/",
     },
     {
         testimonial:
@@ -184,15 +186,18 @@ const testimonials = [
         designation: "CEO",
         company: "EME Consultores",
         image: ezequielImg,
+        linkedin: "https://www.linkedin.com/in/ezequiel-torres-morcos-b6946973/",
     },
     {
         testimonial:
             "I thought it was impossible to make a website as beautiful as our product, but Mauri proved me wrong.",
-        name: "Tomás Dorado",
+        name: "Tomás Ezequiel Dorado",
         designation: "Owner",
         company: "Dalaran Barber Shop",
         image: tomasImg,
+        linkedin: "https://www.linkedin.com/in/tomas-dorado-a58137416/",
     },
+
 ];
 
 const projects = [
