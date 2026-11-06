@@ -27,7 +27,6 @@ const FeedbackCard = ({
       <div className='mt-7 flex justify-between items-center gap-1'>
         <div className='flex-1 flex flex-col'>
           <div className='flex items-center gap-2'>
-            {/* Enlace que engloba tanto al ícono como al nombre */}
             {linkedin ? (
               <a
                 href={linkedin}
@@ -62,7 +61,7 @@ const FeedbackCard = ({
         <img
           src={image}
           alt={`feedback-by-${name}`}
-          className='w-10 h-10 rounded-full object-cover'
+          className='w-14 h-14 rounded-full object-cover'
         />
       </div>
     </div>
